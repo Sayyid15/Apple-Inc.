@@ -59,6 +59,7 @@ nav div {
   background-size: 1000px;
 }
 
+
 section{
     background-color:FloralWhite;
     padding: 20px;
@@ -81,4 +82,3 @@ figcaption {
     font-size: 0.7em;
     font-style: italic;
     opacity: 0.4;
-}
